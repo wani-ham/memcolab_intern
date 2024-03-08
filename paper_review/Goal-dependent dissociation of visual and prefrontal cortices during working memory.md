@@ -17,12 +17,12 @@
 
 ### Method
 
-![](../img/Lee_2013NatNeurosci_result.png)
+![](../img/paper-review/Lee_2013NatNeurosci_result.png)
 *Participants were informed which task they will perform before the run*
 * **Visual task** : participants have to indicate whether the probe image is from the sample object
 * **Nonvisual task** : participants have to indicate whether the object in the probe image is from the same subcategory with the sample object
 
-![](../img/distractor.png)
+![](../img/paper-review/distractor.png)
 * To verify whether the information maintaned during the delay period is consistent with the given task, additional experiment was performed
 * It shows in **visual task**, image distractors was more effective than non-image(word) distractors. In **nonvisual task**, it shows the opposite tendency.
 
@@ -31,7 +31,7 @@
 
 ### Result
 
-![](../img/Lee_2013_result.png)
+![](../img/paper-review/Lee_2013_result.png)
 * **pFs** and **lPFC** were both activated but did not showed difference during delay period *(Fig. b)*
 * <ins>Task dependent functional dissociation</ins> between prefrontal and posterior cortices *(Fig. c)*
   * **pFs** : Stronger decoding of maintenance of **visual** than nonvisual properties
