@@ -22,6 +22,15 @@
 
 ### Methods
 
+* The participants watched a one-hour version of "101 Dalmatians (1996)" and gave real-time emotion
+  * The reason for choosing "101 Dalmatians" as an emotional stimuli:
+    * Easy plot to understand & have been aired through radio
+    * Contains both positive and negative emotional plot
+  
+* The participants were grouped as, (1) Congenitally blind ($E^-A$) (2) Congenitally deaf ($E^-V$) (3) Developed ($E^+A$, $E^+V$, $E^+M$)
+  * ex) $E^-A$ : only auditory with blind group / $E^-V$ : only visual with deaf group / $E^+M$ : multimodal with developed group
+
+
 ### Results
 
 ### Discussion
