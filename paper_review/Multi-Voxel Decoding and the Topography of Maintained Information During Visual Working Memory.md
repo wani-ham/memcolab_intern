@@ -14,8 +14,8 @@
 ### Methods
 
 * MVPA (Multi-Voxel Pattern Analysis)
-  * d
-
+  * Considers patterns of activity across multiple voxels simultaneously
+  
 ### Results
 
 * Decoding maintained representation
