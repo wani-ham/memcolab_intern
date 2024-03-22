@@ -23,6 +23,8 @@
 
 ![](../img/paper-review/fearltm_result3.png)
 
+![](../img/paper-review/fearltm_result4.png)
+
 ### Discussion
 
 * The refinement of an individual stimulus representation (within stimulus) seems to be different from the formation of a higher order fear association (between stimulus)
