@@ -11,6 +11,7 @@
 
 ### Methods
 
+
 ### Results
 
 * Mapping object-selective visual areas in the human cortex
@@ -32,8 +33,10 @@
 
 * From representation to object recognition
 
-* Category specific regions of cortex
 
+* Category specific regions of cortex
+  * What is the nature of these category-selective regions(FFA(Fusiform Face Area), PPA(Parahippocampal Place Area)) of cortex and how are they related functionally and anatomically to the LOC?
+  
 
 ### Discussion
 
