@@ -5,7 +5,10 @@
 
 ### Background
 
+* The neural basis of visual working memory was controversial 
+  * V1, middle temporal area (MT), parietal, temporal and prefrontal cortices etc...
 * "Sensory recruitment" hypothesis
+  * Information is maintained in sensory regions during visual working memory 
 
 
 ### Methods
@@ -29,9 +32,19 @@
      * The failure to find decoding for particular information in a given region could simply reflect heterogeneous organization of that information across the cortex rather than its absence
 
 * Relationship to non-human primate studies
-  * 
+  * There is only limited evidence for maintained signals in non-human primate V1 and MT
+  * While non-human primate studies have often reported stimulus-selective sustained activity in prefrontal cortex, some fMRI  decoding studies have failed to find evidence for maintained representations in human prefrontal cortex 
+*  The single unit neurophysiology data from non-human primate prefrontal cortex may be more associated with attentional signals than stimulus properties, while the multivoxel decoding data in
+human posterior cortex primarily reflects maintained sensory
+representations. 
+
 
 * Relationship to visual mental imagery
+  * Visual working memory and visual mental imagery may be highly related
+    * V1-V3 they could decode orientation during the delay on both working memory and mental imagery trials (Albers et al. (2013))
+
+  * Visual working memory and visual mental imagery is a dissociable processes
+    * This dissociation may not reflect the different nature of signals for maintenance between imagery and working memory but interference effect between bottom-up visual inputs
 
 
 ### Discussion
