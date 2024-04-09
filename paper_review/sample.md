@@ -1,4 +1,4 @@
-# Title of the paper
+# -Title of the paper-
 
 * Date : 0000
 * Keywords : *A, B, C*
